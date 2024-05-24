@@ -1,0 +1,3 @@
+C:\Users\USER\source\repos\pesann\pesann\x64\Debug\pesann.vcxproj.AssemblyReference.cache
+C:\Users\USER\source\repos\pesann\pesann\x64\Debug\pesann.MyForm.resources
+C:\Users\USER\source\repos\pesann\pesann\x64\Debug\pesann.vcxproj.GenerateResource.cache
